@@ -1,0 +1,9 @@
+.vscode
+**.meta
+Library
+Logs
+obj
+Packages
+ProjectSettings
+Temp
+UserSettings
